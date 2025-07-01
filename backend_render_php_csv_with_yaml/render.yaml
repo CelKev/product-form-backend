@@ -1,9 +1,0 @@
-
-services:
-  - type: web
-    name: form-backend
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: ""
-    region: oregon
